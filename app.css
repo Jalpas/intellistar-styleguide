@@ -4494,7 +4494,7 @@ tbody.collapse.in {
     .nav > li > a {
       position: relative;
       display: block;
-      padding: 10px 15px; }
+      padding: 8px 20px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/assets\/stylesheets\/bootstrap\/_navs\.scss}line{font-family:\0000323}}
       .nav > li > a:hover, .nav > li > a:focus {
         text-decoration: none;
