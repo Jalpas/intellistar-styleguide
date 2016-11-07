@@ -7497,4 +7497,8 @@ button.close {
 iframe {
   height: 300px !important; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003267}}
+.form-control {
+  height: 33px; }
+
 /*# sourceMappingURL=app.css.map */
