@@ -7827,6 +7827,12 @@ h6, .h6 {
 /*file upload*/
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003503}}
 .bootstrap-filestyle .btn {
-  padding: 9px 25px; }
+  padding: 13px 40px 13px 13px;
+  font-size: 18px;
+  font-weight: 600; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003508}}
+.bootstrap-filestyle span.icon-span-filestyle {
+  padding: 0 10px 0 0; }
 
 /*# sourceMappingURL=app.css.map */
