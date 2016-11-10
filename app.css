@@ -7831,9 +7831,9 @@ h6, .h6 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003504}}
 .bootstrap-filestyle .btn {
-  padding: 11px 0 11px 11px;
+  padding: 11px;
   font-size: 18px;
-  width: 180px;
+  width: 190px;
   font-weight: 600;
   text-align: left; }
 
