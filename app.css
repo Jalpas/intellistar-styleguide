@@ -7433,7 +7433,7 @@ h6, .h6 {
   color: #fff;
   border-color: #cd4222;
   border-radius: 4px;
-  font-size: 13px; }
+  font-size: 14px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003180}}
   .btn-danger:hover, .btn-danger:active, .btn-danger:focus, .btn-danger.focus {
     color: #fff;
@@ -7823,5 +7823,10 @@ h6, .h6 {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003499}}
 .radio-danger input[type="radio"]:checked + label::after {
   background-color: #d9534f; }
+
+/*file upload*/
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003503}}
+.bootstrap-filestyle .btn {
+  padding: 9px 25px; }
 
 /*# sourceMappingURL=app.css.map */
