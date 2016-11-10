@@ -7712,58 +7712,60 @@ h6, .h6 {
 /*form inputs*/
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003413}}
 .has-success .form-control {
-  background: #dff0d8; }
+  background: #dff0d8;
+  color: #3c763d; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003416}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003417}}
 .has-error .form-control {
-  background: #f2dede; }
+  background: #f2dede;
+  color: #a94442; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003419}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003421}}
 .btn span.glyphicon {
   opacity: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003422}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003424}}
 .form-group .btn span.glyphicon {
   opacity: 1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003425}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003427}}
 .btn.active span.glyphicon {
   opacity: 1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003428}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003430}}
 .radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
   opacity: 0;
   position: absolute;
   z-index: -1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003433}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003435}}
 .radio, .checkbox {
   margin-bottom: 20px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003436}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003438}}
 .radio label, .checkbox label {
   padding-left: 0;
   min-height: 18px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003440}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003442}}
 .checkbox .btn {
   padding: 1px 4px;
   border-radius: 2px;
   border: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003446}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003448}}
 .radio {
   margin-left: 30px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003447}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003449}}
 .radio label::before {
   content: "";
   display: inline-block;
   position: absolute;
-  width: 17px;
-  height: 17px;
+  width: 18px;
+  height: 18px;
   left: 0;
-  margin: -1px 0 0 -22px;
+  margin: -2px 0 0 -22px;
   border: 2px solid #cccccc;
   border-radius: 50%;
   background-color: #fff;
@@ -7771,7 +7773,7 @@ h6, .h6 {
   -o-transition: border 0.15s ease-in-out;
   transition: border 0.15s ease-in-out; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003463}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003465}}
 .radio label::after {
   display: inline-block;
   position: absolute;
@@ -7792,53 +7794,53 @@ h6, .h6 {
   -o-transition: -o-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
   transition: transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003483}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003485}}
 .radio input[type="radio"] {
   opacity: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003485}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003487}}
 .radio input[type="radio"]:focus + label::before {
   outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003489}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003491}}
 .radio input[type="radio"]:checked + label::after {
   -webkit-transform: scale(1, 1);
   -ms-transform: scale(1, 1);
   -o-transform: scale(1, 1);
   transform: scale(1, 1); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003494}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003496}}
 .radio input[type="radio"]:disabled + label {
   opacity: 0.65; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003496}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003498}}
 .radio input[type="radio"]:disabled + label::before {
   cursor: not-allowed; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003498}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003500}}
 .radio.radio-inline {
   margin-top: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003501}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003503}}
 .radio-danger input[type="radio"] + label::after {
   background-color: #d9534f; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003503}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003505}}
 .radio-danger input[type="radio"]:checked + label::before {
   border-color: #d9534f; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003506}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003508}}
 .radio-danger input[type="radio"]:checked + label::after {
   background-color: #d9534f; }
 
 /*file upload*/
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003510}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003512}}
 .glyphicon {
   top: 2px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003511}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003513}}
 .bootstrap-filestyle .btn {
   padding: 11px;
   font-size: 18px;
@@ -7846,15 +7848,15 @@ h6, .h6 {
   font-weight: 600;
   text-align: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003518}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003520}}
 .bootstrap-filestyle span.icon-span-filestyle {
   padding: 0 10px 0 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003521}}
-.input-group .form-control {
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003523}}
+.bootstrap-filestyle .form-control {
   height: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003524}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003526}}
 .fileuploadstandard .bootstrap-filestyle .btn {
   padding: 11px;
   width: 120px;
@@ -7862,11 +7864,11 @@ h6, .h6 {
   font-weight: 600;
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003531}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003533}}
 .fileuploadstandard .icon-span-filestyle {
   display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003534}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003536}}
 #imagePreview {
   width: 188px;
   height: 188px;
@@ -7876,7 +7878,7 @@ h6, .h6 {
   margin: 8px;
   background: #f2f2f2; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003543}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003545}}
 .imagePreviewContainer {
   width: 208px;
   height: 208px;
@@ -7886,11 +7888,11 @@ h6, .h6 {
   border: 3px solid #ccc;
   margin: 0 0 20px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003552}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003554}}
 .fileuploadimage .bootstrap-filestyle .btn {
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003555}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003557}}
 .fileuploadimage .badge {
   display: none; }
 
