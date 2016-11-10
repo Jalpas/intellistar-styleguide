@@ -7725,7 +7725,7 @@ h6, .h6 {
   opacity: 0; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003424}}
-.form-group .btn span.glyphicon {
+.form-group .btn span.glyphicon, .input-group-btn .btn span.glyphicon {
   opacity: 1; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003427}}
