@@ -7833,7 +7833,7 @@ h6, .h6 {
 .bootstrap-filestyle .btn {
   padding: 11px;
   font-size: 18px;
-  width: 209px;
+  width: 208px;
   font-weight: 600;
   text-align: left; }
 
@@ -7856,5 +7856,29 @@ h6, .h6 {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003524}}
 .fileuploadstandard .icon-span-filestyle {
   display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003527}}
+#imagePreview {
+  width: 188px;
+  height: 188px;
+  background-position: center center;
+  background-size: cover;
+  display: inline-block;
+  margin: 8px;
+  background: #f2f2f2; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003536}}
+.imagePreviewContainer {
+  width: 208px;
+  height: 208px;
+  background-position: center center;
+  background-size: cover;
+  display: inline-block;
+  border: 3px solid #ccc;
+  margin: 0 0 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003545}}
+.fileuploadimage .bootstrap-filestyle .btn {
+  text-align: center; }
 
 /*# sourceMappingURL=app.css.map */
