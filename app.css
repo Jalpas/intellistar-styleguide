@@ -7881,4 +7881,8 @@ h6, .h6 {
 .fileuploadimage .bootstrap-filestyle .btn {
   text-align: center; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003548}}
+.fileuploadimage .badge {
+  display: none; }
+
 /*# sourceMappingURL=app.css.map */
