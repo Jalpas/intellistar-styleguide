@@ -7826,6 +7826,10 @@ h6, .h6 {
 
 /*file upload*/
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003503}}
+.glyphicon {
+  top: 4px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003504}}
 .bootstrap-filestyle .btn {
   padding: 11px 0 11px 11px;
   font-size: 18px;
@@ -7833,15 +7837,15 @@ h6, .h6 {
   font-weight: 600;
   text-align: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003510}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003511}}
 .bootstrap-filestyle span.icon-span-filestyle {
   padding: 0 10px 0 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003513}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003514}}
 .input-group .form-control {
   height: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003516}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003517}}
 .fileuploadstandard .bootstrap-filestyle .btn {
   padding: 11px;
   width: 120px;
@@ -7849,7 +7853,7 @@ h6, .h6 {
   font-weight: 600;
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003523}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003524}}
 .fileuploadstandard .icon-span-filestyle {
   display: none; }
 
