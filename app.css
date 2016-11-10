@@ -1395,7 +1395,7 @@ body {
   font-family: "Arial";
   font-size: 14px;
   line-height: 1.42857;
-  color: #333333;
+  color: #1e1e1e;
   background-color: #fff;
   margin: 50px; }
 
@@ -1908,7 +1908,7 @@ pre {
   line-height: 1.42857;
   word-break: break-all;
   word-wrap: break-word;
-  color: #333333;
+  color: #1e1e1e;
   background-color: #f5f5f5;
   border: 1px solid #ccc;
   border-radius: 4px; }
@@ -3067,7 +3067,7 @@ legend {
   margin-bottom: 20px;
   font-size: 21px;
   line-height: inherit;
-  color: #333333;
+  color: #1e1e1e;
   border: 0;
   border-bottom: 1px solid #e5e5e5; }
 
@@ -3539,7 +3539,7 @@ select[multiple].input-lg,
   display: block;
   margin-top: 5px;
   margin-bottom: 10px;
-  color: #737373; }
+  color: #5e5e5e; }
 
 @media (min-width: 768px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/assets\/stylesheets\/bootstrap\/_forms\.scss}line{font-family:\00003478}}
@@ -5475,7 +5475,7 @@ a.badge:hover, a.badge:focus {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/assets\/stylesheets\/bootstrap\/_thumbnails\.scss}line{font-family:\0000327}}
   .thumbnail .caption {
     padding: 9px;
-    color: #333333; }
+    color: #1e1e1e; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/assets\/stylesheets\/bootstrap\/_thumbnails\.scss}line{font-family:\0000334}}
 a.thumbnail:hover,
@@ -6162,7 +6162,7 @@ button.list-group-item-danger {
   border-color: #ddd; }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/assets\/stylesheets\/bootstrap\/mixins\/_panels\.scss}line{font-family:\000036}}
   .panel-default > .panel-heading {
-    color: #333333;
+    color: #1e1e1e;
     background-color: #f5f5f5;
     border-color: #ddd; }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/assets\/stylesheets\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000311}}
@@ -6171,7 +6171,7 @@ button.list-group-item-danger {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/assets\/stylesheets\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000314}}
     .panel-default > .panel-heading .badge {
       color: #f5f5f5;
-      background-color: #333333; }
+      background-color: #1e1e1e; }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/assets\/stylesheets\/bootstrap\/mixins\/_panels\.scss}line{font-family:\0000320}}
   .panel-default > .panel-footer + .panel-collapse > .panel-body {
     border-bottom-color: #ddd; }
@@ -7827,7 +7827,7 @@ h6, .h6 {
 /*file upload*/
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003503}}
 .glyphicon {
-  top: 4px; }
+  top: 2px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/JALPA\/Projects\/Product\%20UI-UX\/Intellistar\/bootstrap-sass-master\/intellistar\/_style\.scss}line{font-family:\00003504}}
 .bootstrap-filestyle .btn {
